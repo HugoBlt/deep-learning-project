@@ -1,0 +1,10 @@
+*.html
+*.txt
+*.pt
+*.p
+.ipynb_checkpoints
+project-tv-script-generation/data/
+project-dog-classification/data/
+project-dog-classification/lfw/
+project-dog-classification/dogImages/
+project-tv-script-generation/trained_rnn.pt
