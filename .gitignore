@@ -2,9 +2,13 @@
 *.txt
 *.pt
 *.p
+*.zip
 .ipynb_checkpoints
 project-tv-script-generation/data/
 project-dog-classification/data/
 project-dog-classification/lfw/
 project-dog-classification/dogImages/
 project-tv-script-generation/trained_rnn.pt
+project-face-generation/processed_celeba_small/
+project-face-generation/train_samples.pkl
+project-face-generation/train_samples.pkl
